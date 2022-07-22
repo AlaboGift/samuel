@@ -1,0 +1,8 @@
+<svg id="Group_26" data-name="Group 26" xmlns="http://www.w3.org/2000/svg" width="367" height="367" viewBox="0 0 367 367">
+  <g id="Rectangle_133" data-name="Rectangle 133" fill="#fff" stroke="#1f222b" stroke-width="5">
+    <rect width="367" height="367" rx="80" stroke="none"/>
+    <rect x="2.5" y="2.5" width="362" height="362" rx="77.5" fill="none"/>
+  </g>
+  <path id="Icon_open-lightbulb" data-name="Icon open-lightbulb" d="M66,.112a9.508,9.508,0,0,0-2.472,1.141L6.486,29.776a9.508,9.508,0,1,0,8.367,16.733L71.9,17.987A9.508,9.508,0,0,0,66,.112ZM85.018,28.635a9.507,9.507,0,0,0-2.472,1.141L6.486,67.807A9.508,9.508,0,1,0,14.852,84.54l76.061-38.03a9.508,9.508,0,0,0-5.895-17.874Zm0,38.03a9.508,9.508,0,0,0-2.472,1.141L25.5,96.329A9.508,9.508,0,0,0,29.684,114.2h38.03a9.629,9.629,0,0,0,3.042-19.015L90.913,84.54a9.508,9.508,0,0,0-5.895-17.874ZM36.34,133.219a9.629,9.629,0,0,0,3.042,19.015H58.4a9.508,9.508,0,0,0,0-19.015H39.382a9.509,9.509,0,0,0-1.711,0,9.506,9.506,0,0,0-1.141,0Z" transform="translate(135.56 56.34)" fill="none" stroke="#1f222b" stroke-width="5"/>
+  <text id="Discovery" transform="translate(74 297)" fill="#1f222b" font-size="50" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">Discovery</tspan></text>
+</svg>
