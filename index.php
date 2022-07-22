@@ -72,18 +72,6 @@
                                                 <img src="assets/img/service/services4.png" alt="">
                                             </div>
                                         </div>
-                                        <div class="col-lg-4 col-md-4 col-sm-4">
-                                            <!-- Single -->
-                                            <div class="single-services mb-30">
-                                                <img src="assets/img/service/services5.png" alt="">
-                                            </div>
-                                        </div>
-                                        <div class="col-lg-4 col-md-4 col-sm-4">
-                                            <!-- Single -->
-                                            <div class="single-services mb-30">
-                                                <img src="assets/img/service/services6.png" alt="">
-                                            </div>
-                                        </div>
                                     </div>
                                 </div>
                             </div>
