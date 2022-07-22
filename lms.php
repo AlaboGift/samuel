@@ -62,6 +62,29 @@
             </div>
         </section>
 
+        <section class="p-5">
+            <div class="container">
+               <div class="project-heading">
+                    <div class="row align-items-end">
+                        <div class="col-lg-12">
+                            <!-- Section Tittle -->
+                            <div class="section-tittle mb-5">
+                                <h2>The Auth Pages</h2>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-6">
+                                        <img src="assets/img/about/lms-5.png" width="100%" height="100%">
+                                </div>
+                                <div class="col-md-6">
+                                        <img src="assets/img/about/lms-6.png" width="100%" height="100%">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+               </div>
+            </div>
+        </section>
+
                 <!-- Services Area Start -->
         
 
