@@ -32,8 +32,8 @@
                                     offered in collaboration with world-class tenacity and industry. Adding the latest Trans LMS is an immersive learning experience—through technology, pedagogy, and services, the transformation learning management solution is an immersive learning experience at any time and anywhere.
                                 </p>
                             </div>
-                            <div class="col-md-6 offset-md-3">
-                                    <img src="assets/img/about/lms-2.png" width="100%" height="100%">
+                            <div class="col-md-8 offset-md-2">
+                            <iframe src="https://drive.google.com/file/d/1LgGvcQxxPEyWk573gnI3cHhgE5jThCmc/preview" width="100%" height="480" allow="autoplay"></iframe>
                             </div>
                         </div>
                     </div>
