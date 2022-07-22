@@ -30,7 +30,7 @@
                     <div class="row align-items-end">
                         <div class="col-lg-6">
                             <!-- Section Tittle -->
-                            <div class="section-tittle">
+                            <div class="section-tittle mb-70">
                                 <h2>Featured Projects</h2>
                             </div>
                         </div>
@@ -104,7 +104,7 @@
                     <div class="row align-items-end">
                         <div class="col-lg-6">
                             <!-- Section Tittle -->
-                            <div class="section-tittle">
+                            <div class="section-tittle mb-70">
                                 <h2>About me</h2>
                             </div>
                         </div>
