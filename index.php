@@ -60,9 +60,9 @@
                                                 </div>
                                                 <div class="col-lg-12">
                                                     <!-- Single -->
-                                                    <div class="single-services mb-30">
+                                                    <a class="single-services mb-30" href="lms.php">
                                                         <img src="assets/img/service/services3.png" alt="">
-                                                    </div>
+                                                    </a>
                                                 </div>
                                             </div>
                                         </div>
