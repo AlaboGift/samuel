@@ -60,7 +60,7 @@
                                         </nav>
                                     </div>
                                     <div class="header-right-btn f-right d-none d-xl-block ml-20">
-                                        <a href="#" class="btn header-btn">Download Resume</a>
+                                        <a href="Doc/MY.CV.pdf" download class="btn header-btn">Download Resume</a>
                                     </div>
                                 </div>
                             </div>   
