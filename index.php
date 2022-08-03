@@ -6,7 +6,7 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-11 mx-auto" style="margin-top: -100px;">
-        <h1 class="text-white font-tertiary">Hi!<br> This is Sam, <br> a human-centered advocate who crafts intuitive experiences.</h1>
+        <h2 class="text-white" style="position: relative; z-index: 20;">Hi!<br> This is Sam, <br> a human-centered advocate who crafts intuitive experiences.</h2>
       </div>
     </div>
   </div>
