@@ -409,8 +409,8 @@
                             <div class="col-md-12">
                                 <div class="alert alert-info">
                                     <u>
-                                        <a class="text-dark" href="https://xd.adobe.com/view/8da04e39-b30d-4813-8408-ed6ac15e76cc-d8f3/" target="_blank">
-                                            https://xd.adobe.com/view/8da04e39-b30d-4813-8408-ed6ac15e76cc-d8f3/
+                                        <a class="text-dark" href="https://skedu-wheat.vercel.app/" target="_blank">
+                                            https://skedu-wheat.vercel.app/
                                         </a>
                                     </u>
                                 </div>

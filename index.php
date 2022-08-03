@@ -1,26 +1,50 @@
     <?php include('header.php'); ?>
     <main>
 
-        <!-- slider Area Start-->
-        <div class="slider-area ">
-            <div class="slider-active">
-                <!-- Single Slider -->
-                <div class="single-slider slider-height d-flex align-items-center">
-                    <div class="container">
-                        <div class="row">
-                        </div>
-                    </div>
-                </div>
-                <!-- Single Slider -->
-                <div class="single-slider slider-height d-flex align-items-center">
-                    <div class="container">
-                        <div class="row">
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- slider Area End-->
+<!-- hero area -->
+<section class="hero-area bg-primary" id="parallax">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-11 mx-auto" style="margin-top: -100px;">
+        <h1 class="text-white font-tertiary">Hi!<br> This is Sam, <br> a human-centered advocate who crafts intuitive experiences.</h1>
+      </div>
+    </div>
+  </div>
+  <div class="layer-bg w-100">
+    <img class="img-fluid w-100" src="assets/img/illustrations/leaf-bg.png" alt="bg-shape">
+  </div>
+  <div class="layer" id="l2">
+    <img src="assets/img/illustrations/dots-cyan.png" alt="bg-shape">
+  </div>
+  <div class="layer" id="l3">
+    <img src="assets/img/illustrations/leaf-orange.png" alt="bg-shape">
+  </div>
+  <div class="layer" id="l4">
+    <img src="assets/img/illustrations/dots-orange.png" alt="bg-shape">
+  </div>
+
+  <div class="layer" id="l6">
+    <img src="assets/img/illustrations/leaf-cyan.png" alt="bg-shape">
+  </div>
+  <div class="layer" id="l7">
+    <img src="assets/img/illustrations/dots-group-orange.png" alt="bg-shape">
+  </div>
+  <div class="layer" id="l8">
+    <img src="assets/img/illustrations/leaf-pink-round.png" alt="bg-shape">
+  </div>
+  <div class="layer" id="l9">
+    <img src="assets/img/illustrations/leaf-cyan-2.png" alt="bg-shape">
+  </div>
+  <!-- social icon -->
+  <ul class="list-unstyled ml-5 mt-3 position-relative zindex-1">
+    <li class="mb-3"><a class="text-white" href="#"><i class="ti-facebook"></i></a></li>
+    <li class="mb-3"><a class="text-white" href="#"><i class="ti-instagram"></i></a></li>
+    <li class="mb-3"><a class="text-white" href="#"><i class="ti-dribbble"></i></a></li>
+    <li class="mb-3"><a class="text-white" href="#"><i class="ti-twitter"></i></a></li>
+  </ul>
+  <!-- /social icon -->
+</section>
+<!-- /hero area -->
 
         <!-- Services Area Start -->
         <div id="portfolio" class="mb-3"></div>
@@ -138,7 +162,7 @@
                     <div class="row justify-content-center">
 
                         <div class="col-md-4">
-                            <div class="p-4 card my-3">
+                            <div class="p-4 card my-3" style="box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;">
                                 <h4>Consistency</h4>
                                 <p>
                                     Avoid uniformity, but be consistent. Re-use well-tested design patterns. Use ubiquitous language to create familiarity.
@@ -146,7 +170,7 @@
                             </div>
                         </div>
                         <div class="col-md-4">
-                            <div class="p-4 card my-3">
+                            <div class="p-4 card my-3" style="box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;">
                                 <h4>Effectiveness</h4>
                                 <p>
                                     Your design should work everywhere; responsive is not only screen size. Leverage technology to help users.
@@ -154,7 +178,7 @@
                             </div>
                         </div>
                         <div class="col-md-4">
-                            <div class="p-4 card my-3">
+                            <div class="p-4 card my-3" style="box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;">
                                 <h4>Aesthetics</h4>
                                 <p>
                                     Accessibility is not a bolt-on feature. First impressions do matter. Take the extra time to delight your users.
@@ -163,7 +187,7 @@
                         </div>
 
                         <div class="col-md-4">
-                            <div class="p-4 card my-3">
+                            <div class="p-4 card my-3" style="box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;">
                                 <h4>Know your user</h4>
                                 <p>
                                     Start with user needs. Treat second-hand information about users with caution. Focus on user outcomes and design with data.
@@ -171,7 +195,7 @@
                             </div>
                         </div>
                         <div class="col-md-4">
-                            <div class="p-4 card my-3">
+                            <div class="p-4 card my-3" style="box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;">
                                 <h4>Clarity</h4>
                                 <p>
                                     Create structure and hierarchy. Give users responses to the actions they take. Make decisions easy by avoiding paradox of choice.
