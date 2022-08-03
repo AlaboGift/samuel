@@ -61,46 +61,33 @@
                     </div>
                </div>
                 <div class="row">
-                    <div class="col-12">
-                        <!-- Nav Card -->
-                        <div class="tab-content active" id="nav-tabContent">
-                            <!-- card ONE -->
-                            <div class="tab-pane fade active show" id="nav-home" role="tabpanel" aria-labelledby="nav-home-tab">           
-                                <div class="services-caption">
-                                    <div class="row">
-                                        <div class="col-lg-8 col-md-8 col-sm-8">
-                                            <!-- Single -->
-                                            <a class="single-services mb-30" href="triangle.php">
-                                                <img src="assets/img/service/services1.png" alt="">
-                                            </a>
-                                        </div>
-                                        <div class="col-lg-4 col-md-4 col-sm-4">
-                                            <div class="row">
-                                                <div class="col-lg-12">
-                                                    <!-- Single -->
-                                                    <a class="single-services mb-30" href="skedu.php">
-                                                        <img src="assets/img/service/services2.png" alt="">
-                                                    </a>
-                                                </div>
-                                                <div class="col-lg-12">
-                                                    <!-- Single -->
-                                                    <a class="single-services mb-30" href="lms.php">
-                                                        <img src="assets/img/service/services3.png" alt="">
-                                                    </a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="col-lg-4 col-md-4 col-sm-4">
-                                            <!-- Single -->
-                                            <div class="single-services mb-30">
-                                                <img src="assets/img/service/services4.png" alt="">
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
+                    <div class="col-lg-8 col-md-8 col-sm-8">
+                        <!-- Single -->
+                        <a class="single-services mb-30" href="triangle.php">
+                            <img src="assets/img/service/services1.png" alt="">
+                        </a>
+                    </div>
+                    <div class="col-lg-4 col-md-4 col-sm-4">
+                        <div class="row">
+                            <div class="col-lg-12">
+                                <!-- Single -->
+                                <a class="single-services mb-30" href="skedu.php">
+                                    <img src="assets/img/service/services2.png" alt="">
+                                </a>
+                            </div>
+                            <div class="col-lg-12">
+                                <!-- Single -->
+                                <a class="single-services mb-30" href="lms.php">
+                                    <img src="assets/img/service/services3.png" alt="">
+                                </a>
                             </div>
                         </div>
-                    <!-- End Nav Card -->
+                    </div>
+                    <div class="col-lg-4 col-md-4 col-sm-4">
+                        <!-- Single -->
+                        <div class="single-services mb-30">
+                            <img src="assets/img/service/services4.png" alt="">
+                        </div>
                     </div>
                 </div>
             </div>
