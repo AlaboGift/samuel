@@ -12,7 +12,7 @@
                             </div>
                        </div>
                        <div class="col-lg-3">
-                                <div class="icons">
+                                <div class="icons mb-2">
                                     <div class="footer-social">
                                         <a target="_blank" href="https://www.behance.net/balosammy"><i class="fab fa-behance text-white fa-2x"></i></a>
                                         <a target="_blank" href="https://twitter.com/sammyexclusive"><i class="fab fa-twitter text-white fa-2x"></i></a>
@@ -20,7 +20,7 @@
                                         <a target="_blank" href="https://www.linkedin.com/in/balogun-samuel/"><i class="fab fa-linkedin text-white fa-2x"></i></a>
                                     </div>
                                 </div>
-                                <p class="text-white mt-4">&copy;<?=date('Y')?></p>
+                                <p class="text-white mt-5">&copy;<?=date('Y')?></p>
                        </div>
 
                    </div>
